@@ -1,5 +1,5 @@
-# NTL-DS-062722's Cohort Repository!
-
+ NTL-DS-062722's Cohort Repository!
+This is Ji's Version! 
 A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 022122 Cohort.
 
 ![uh-oh](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
